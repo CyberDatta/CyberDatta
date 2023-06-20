@@ -1,7 +1,7 @@
 # About Me 😁
 🔭 I’m currently a third year Computer Science Undergrad at PEC, Chd.
 <br>
-👯 I’m looking to collaborate on projects/hackathons.
+👯 I’m looking to collaborate on projects.
 <br>
 🤝 My dream is to collaborate with and eventually manage super creative and ambitious teams!
 <br>
