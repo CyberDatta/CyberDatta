@@ -1,5 +1,5 @@
 # About Me 😁
-🔭 I’m currently a second year Computer Science Undergrad at PEC, Chd.
+🔭 I’m currently a third year Computer Science Undergrad at PEC, Chd.
 <br>
 👯 I’m looking to collaborate on projects/hackathons.
 <br>
