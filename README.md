@@ -26,13 +26,23 @@
 ### Database Technologies
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Design Technologies
+### Frameworks (Web/App)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=violet) 
+
+### Design Technologies 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Davinci Resolve](https://img.shields.io/badge/davinciresolve-233A51?style=for-the-badge&logo=davinciresolve&logoColor=cyan)
 
-### 
+### ML Technologies
+![Tensorflow](https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Pytorch](https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=green) 
 
-### ayy
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) ![Git/Github](https://img.shields.io/badge/Git/Github-181717?style=for-the-badge&logo=github&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-808080?style=for-the-badge&logo=unity&logoColor=black) ![RobotOS](https://img.shields.io/badge/RobotOS-00B0D8?style=for-the-badge&logo=RobotOS&logoColor=grey) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=violet) ![Tensorflow](https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Pytorch](https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=green) 
+### Robotics
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) ![RobotOS](https://img.shields.io/badge/RobotOS-00B0D8?style=for-the-badge&logo=RobotOS&logoColor=grey) 
+
+### Version Control
+![Git/Github](https://img.shields.io/badge/Git/Github-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### Gamedev
+![Unity](https://img.shields.io/badge/Unity-808080?style=for-the-badge&logo=unity&logoColor=black) 
 
 # My Greatest Hits
 ### Sign Language Interpreter:
