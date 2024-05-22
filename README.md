@@ -22,13 +22,13 @@
 
 # My Greatest Hits
 ### Sign Language Interpreter:
-
+https://github.com/CyberDatta/sign_lang_translator_beta
 
 ### YoloV8 Traffic Detection and Training Pipeline:
-
+https://github.com/CyberDatta/AITrafficSystem
 
 ### AI plays ELDEN RING: 
-
+https://github.com/CyberDatta/EldenRL_mysystem
 
 <!---
 CyberDatta/CyberDatta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
