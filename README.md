@@ -40,7 +40,7 @@
 ![Git/Github](https://img.shields.io/badge/Git/Github-181717?style=for-the-badge&logo=github&logoColor=white) 
 
 ### Cybersecurity Technologies
-![Wireshark](https://img.shields.io/badge/Git/Wireshark-1679A7?style=for-the-badge&logo=github&logoColor=white) 
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=github&logoColor=white) 
 
 ### Gamedev
 ![Unity](https://img.shields.io/badge/Unity-808080?style=for-the-badge&logo=unity&logoColor=black) 
