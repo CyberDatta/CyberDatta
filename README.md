@@ -27,7 +27,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Design Technologies
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Davinci Resolve](https://img.shields.io/badge/davinciresolve-233A51?style=for-the-badge&logo=davinciresolve&logoColor=lightblue)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Davinci Resolve](https://img.shields.io/badge/davinciresolve-233A51?style=for-the-badge&logo=davinciresolve&logoColor=cyan)
 
 ### 
 
