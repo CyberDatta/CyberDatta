@@ -1,4 +1,4 @@
-s# About Me 😁
+# About Me 😁
 🔭 I’m currently a fourth year Computer Science Undergrad at Punjab Engineering College, Chandigarh(India).
 <br>
 👯 I’m looking to collaborate on projects!
