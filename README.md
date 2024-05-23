@@ -27,8 +27,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ### Frameworks (Web/App) 🌐
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=violet) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=green) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=neon) ![Express](https://img.shields.io/badge/Express-FFF700?style=for-the-badge&logo=express&logoColor=grey)
-### Design Technologies 📐
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Davinci Resolve](https://img.shields.io/badge/davinciresolve-233A51?style=for-the-badge&logo=davinciresolve&logoColor=cyan)
 ### ML Technologies 🧮
 ![Tensorflow](https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Pytorch](https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=green) 
 ### Robotics 🤖
@@ -39,6 +37,8 @@
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) ![Kali Linux](https://img.shields.io/badge/Kali_linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=gold) 
 ### Gamedev 🎮
 ![Unity](https://img.shields.io/badge/Unity-808080?style=for-the-badge&logo=unity&logoColor=black)
+### Design Technologies 📐
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Davinci Resolve](https://img.shields.io/badge/davinciresolve-233A51?style=for-the-badge&logo=davinciresolve&logoColor=cyan)
 # My Greatest Hits 👑
 ### Sign Language Interpreter:
 https://github.com/CyberDatta/sign_lang_translator_beta
