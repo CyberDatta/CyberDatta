@@ -32,7 +32,7 @@
 ### Version Control 🚣‍♀️
 ![Git/Github](https://img.shields.io/badge/Git/Github-181717?style=for-the-badge&logo=github&logoColor=white) 
 ### Cybersecurity Technologies 🥷🏻
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) ![Kali Linux]("https://img.shields.io/badge/Kali linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white") 
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) ![Kali Linux](https://img.shields.io/badge/Kali_linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white) 
 ### Gamedev 🎮
 ![Unity](https://img.shields.io/badge/Unity-808080?style=for-the-badge&logo=unity&logoColor=black)
 # My Greatest Hits 👑
