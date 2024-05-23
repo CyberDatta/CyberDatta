@@ -14,8 +14,11 @@
   <a href="https://www.youtube.com/@cyberdatta">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge">
   </a>
+  <a href="https://www.instagram.com/dhruvmohandatta?igsh=a2Rvd3IxZzd6cHZj">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge">
+  </a>
 </div>
-https://www.instagram.com/dhruvmohandatta?igsh=a2Rvd3IxZzd6cHZj
+
 
 # Skills 👩‍🔧
 ### Languages and Scripts 💻
