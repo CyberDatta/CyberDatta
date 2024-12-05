@@ -1,5 +1,5 @@
 # About Me 😁
-🔭 I’m currently a fourth year Computer Science and Engineering Undergrad at Punjab Engineering College, Chandigarh(India).
+🔭 I’m currently a recent Computer Science and Engineering BTech. Graduate from Punjab Engineering College, Chandigarh(India).
 <br>
 👯 I’m looking to collaborate on projects!
 <br>
