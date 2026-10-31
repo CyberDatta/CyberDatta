@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter+Tight&weight=800&size=34&duration=3000&pause=900&color=1A8AFF&center=true&vCenter=true&width=820&height=60&lines=Hey%2C+I'm+Dhruv+%F0%9F%91%8B;Co-founder+%26+CEO+%40+GolfWiz+AI;Computer+vision+%E2%86%92+products+people+pay+for;I+taught+an+AI+to+play+Elden+Ring" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter+Tight&weight=800&size=34&duration=3000&pause=900&color=1A8AFF&center=true&vCenter=true&width=820&height=60&lines=Hey%2C+I'm+Dhruv+%F0%9F%91%8B;Co-founder+%26+CEO+%40+GolfWiz+AI;Golf+Made+Easy+%E2%9B%B3;Computer+vision+%E2%86%92+products+people+pay+for;I+taught+an+AI+to+play+Elden+Ring" alt="Typing intro" />
 
 ### I build AI that watches how people move — and makes them better at it.
 
@@ -25,11 +25,11 @@ Today GolfWiz is live on **iOS and Android**: film a swing on your phone, get th
 
 <div align="center">
 
-| 📲 Downloads | 🌍 Countries | 🏌️ Swings Analyzed | ⭐ Store Rating |
+| 🏌️ Swings Analyzed | 🌍 Countries | 👥 Signups | ⭐ Rating |
 |:---:|:---:|:---:|:---:|
-| **[X]** | **[X]** | **[X]** | **[X]** |
+| **30,000+** | **61** | **635** since May 2026, mostly organic | **5.0** App Store · **5.0** Play Store |
 
-**Film It. Find It. Fix It.**
+### Golf Made Easy.
 
 </div>
 
