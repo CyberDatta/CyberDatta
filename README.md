@@ -2,8 +2,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter+Tight&weight=800&size=34&duration=3000&pause=900&color=1A8AFF&center=true&vCenter=true&width=820&height=60&lines=Hey%2C+I'm+Dhruv+%F0%9F%91%8B;Co-founder+%26+CEO+%40+GolfWiz+AI;Golf+Made+Easy+%E2%9B%B3;Computer+vision+%E2%86%92+products+people+pay+for;I+taught+an+AI+to+play+Elden+Ring" alt="Typing intro" />
 
-### I build AI that watches how people move — and makes them better at it.
-
 **Co-founder & CEO of [GolfWiz AI](https://golfwiz.ai)** · Computer vision engineer · Houston, TX
 
 <a href="https://golfwiz.ai"><img src="https://img.shields.io/badge/GolfWiz_AI-1A8AFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="GolfWiz AI"></a>
@@ -21,7 +19,7 @@
 
 Every swing app could diagnose a fault. None of them could fix one. My dad kept running into that wall, so I took a golf biomechanics course, pointed my computer vision background at the problem, and built the first demos myself.
 
-Today GolfWiz is live on **iOS and Android**: film a swing on your phone, get the faults ranked, then fix them with **real-time, follow-along AI drills that track your body and count your reps** (patent pending). Swing, grip, and putting analysis, plus a rotatable 3D swing model, all from a single phone camera.
+Today GolfWiz is live on **[iOS](https://apps.apple.com/us/app/golfwiz-golf-swing-analyzer/id6747655247)** and **[Android](https://play.google.com/store/apps/details?id=com.yukta.golfwiz&hl=en_US)**: film a swing on your phone, get the faults ranked, then fix them with **real-time, follow-along AI drills that track your body and count your reps** (patent pending). Swing, grip, and putting analysis, plus a rotatable 3D swing model, all from a single phone camera.
 
 <div align="center">
 
@@ -30,6 +28,9 @@ Today GolfWiz is live on **iOS and Android**: film a swing on your phone, get th
 | **30,000+** | **61** | **635** since May 2026, mostly organic | **5.0** App Store · **5.0** Play Store |
 
 ### Golf Made Easy.
+
+<a href="https://apps.apple.com/us/app/golfwiz-golf-swing-analyzer/id6747655247"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="Download on the App Store"></a>
+<a href="https://play.google.com/store/apps/details?id=com.yukta.golfwiz&hl=en_US"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Get it on Google Play"></a>
 
 </div>
 
@@ -40,9 +41,9 @@ Today GolfWiz is live on **iOS and Android**: film a swing on your phone, get th
 ## 🧭 The Path
 
 ```text
-2025 → now    Co-founder & CEO, GolfWiz AI             full-time since Mar 2025 (started Oct 2024)
-2023 → 2026   Full Stack Developer, Medical Tourism Corp.  Flutter apps + Node.js infra for patient tracking & retention
-2019 → 2023   B.Tech CSE, Punjab Engineering College   Entrepreneurship & Incubation Cell · E-Summit every year
+2024 → now    Co-founder & CEO, GolfWiz AI                  full-time since Oct 2024
+2023 → 2026   Full Stack Developer, Medical Tourism Corp.   Flutter apps + Node.js infra for patient tracking & retention
+2019 → 2023   B.Tech CSE, Punjab Engineering College        Entrepreneurship & Incubation Cell · E-Summit every year
 ```
 
 ---
