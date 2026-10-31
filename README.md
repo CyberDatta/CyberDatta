@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter+Tight&weight=800&size=34&duration=3000&pause=900&color=1A8AFF&center=true&vCenter=true&width=820&height=60&lines=Hey%2C+I'm+Dhruv+%F0%9F%91%8B;Co-founder+%26+CEO+%40+GolfWiz+AI;Golf+Made+Easy+%E2%9B%B3;Computer+vision+%E2%86%92+products+people+pay+for;I+taught+an+AI+to+play+Elden+Ring" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter+Tight&weight=800&size=34&duration=3000&pause=900&color=1A8AFF&center=true&vCenter=true&width=820&height=60&lines=Hey%2C+I'm+Dhruv+%F0%9F%91%8B;Golf+Made+Easy+%E2%9B%B3;Computer+vision+%E2%86%92+products+people+pay+for;I+taught+an+AI+to+play+Elden+Ring" alt="Typing intro" />
 
 **Co-founder & CEO of [GolfWiz AI](https://golfwiz.ai)** · Computer vision engineer · Houston, TX
 
@@ -73,6 +73,8 @@ Play any video game with your body. Pose estimation turns your movement into con
 </tr>
 </table>
 
+➡️ More builds on [Toad That Codes](https://www.youtube.com/@toadthatcodes)
+
 ---
 
 ## 🛠️ What I Ship With
@@ -107,16 +109,6 @@ Play any video game with your body. Pose estimation turns your movement into con
 <img src="https://img.shields.io/badge/DaVinci_Resolve-233A51?style=for-the-badge&logo=davinciresolve&logoColor=white" alt="DaVinci Resolve">
 
 </div>
-
----
-
-## 📺 Latest From Toad That Codes
-
-<!-- BLOG-POST-LIST:START -->
-<a href="https://www.youtube.com/watch?v=s1pZKJvT_6Q"><img width="24%" src="https://img.youtube.com/vi/s1pZKJvT_6Q/mqdefault.jpg" alt="I Turned My Body Into a Game Controller"/></a> <a href="https://www.youtube.com/watch?v=3mzXOTxRPiw"><img width="24%" src="https://img.youtube.com/vi/3mzXOTxRPiw/mqdefault.jpg" alt="I Taught an AI to Play Elden Ring"/></a>
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [See all videos](https://www.youtube.com/@toadthatcodes)
 
 ---
 
