@@ -51,19 +51,22 @@ Today GolfWiz is live on **iOS and Android**: film a swing on your phone, get th
 
 Before golf, I was teaching machines to see bodies and play games. Same core skill, different arena.
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/CyberDatta/EldenRL_mysystem"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CyberDatta&repo=EldenRL_mysystem&theme=transparent&title_color=1A8AFF&text_color=8b949e&icon_color=1A8AFF&hide_border=true" alt="Elden Ring RL agent"></a>
-<a href="https://github.com/CyberDatta/BODY_MOTION_REPO_NAME"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CyberDatta&repo=BODY_MOTION_REPO_NAME&theme=transparent&title_color=1A8AFF&text_color=8b949e&icon_color=1A8AFF&hide_border=true" alt="Body-motion game controller"></a>
-<a href="https://github.com/CyberDatta/sign_lang_translator_beta"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CyberDatta&repo=sign_lang_translator_beta&theme=transparent&title_color=1A8AFF&text_color=8b949e&icon_color=1A8AFF&hide_border=true" alt="Sign language interpreter"></a>
-<a href="https://github.com/CyberDatta/AITrafficSystem"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CyberDatta&repo=AITrafficSystem&theme=transparent&title_color=1A8AFF&text_color=8b949e&icon_color=1A8AFF&hide_border=true" alt="YOLOv8 traffic system"></a>
+### 🗡️ [AI Plays Elden Ring](https://github.com/CyberDatta/EldenRL_mysystem)
+A reinforcement learning agent that learns boss fights from nothing but the screen.
 
-</div>
+</td>
+<td width="50%" valign="top">
 
-- **🗡️ AI Plays Elden Ring:** a reinforcement learning agent that learns boss fights from the screen.
-- **🕹️ Kinect for Every Game:** play any video game with your body. Pose estimation turns your movement into controls.
-- **🤟 Sign Language Interpreter:** real-time sign recognition from a webcam.
-- **🚦 YOLOv8 Traffic System:** detection and a full training pipeline for traffic footage.
+### 🕹️ [Kinect for Every Game](https://github.com/CyberDatta/BODY_MOTION_REPO_NAME)
+Play any video game with your body. Pose estimation turns your movement into controls.
+
+</td>
+</tr>
+</table>
 
 ---
 
