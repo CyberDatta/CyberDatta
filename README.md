@@ -112,14 +112,9 @@ Play any video game with your body. Pose estimation turns your movement into con
 
 ---
 
-## 📈 By The Numbers
+## 🐍 Always Shipping
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=CyberDatta&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0F1115&title_color=1A8AFF&icon_color=1A8AFF&text_color=c9d1d9" alt="GitHub stats">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberDatta&layout=compact&langs_count=6&hide_border=true&bg_color=0F1115&title_color=1A8AFF&text_color=c9d1d9" alt="Top languages">
-
-<img src="https://streak-stats.demolab.com?user=CyberDatta&hide_border=true&background=0F1115&ring=1A8AFF&fire=1A8AFF&currStreakLabel=1A8AFF&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub streak">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CyberDatta/CyberDatta/output/github-snake-dark.svg">
