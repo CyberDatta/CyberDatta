@@ -1,53 +1,139 @@
-# About Me 😁
-🔭 I’m currently a recent Computer Science and Engineering BTech. Graduate from Punjab Engineering College, Chandigarh(India).
-<br>
-👯 I’m looking to collaborate on projects!
-<br>
-🤝 My dream is to collaborate with and eventually manage super creative and ambitious teams!
-<br>
-🎈 Always learning and following the latest Computer Science technologies
-# Social Profiles 💃
-<div id="badges_social_profiles">
-  <a href="https://www.linkedin.com/in/dhruv-datta-516274200/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
-  </a>
-  <a href="https://www.youtube.com/@cyberdatta">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge">
-  </a>
-  <a href="https://www.instagram.com/dhruvmohandatta?igsh=a2Rvd3IxZzd6cHZj">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge">
-  </a>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter+Tight&weight=800&size=34&duration=3000&pause=900&color=1A8AFF&center=true&vCenter=true&width=820&height=60&lines=Hey%2C+I'm+Dhruv+%F0%9F%91%8B;Co-founder+%26+CEO+%40+GolfWiz+AI;Computer+vision+%E2%86%92+products+people+pay+for;I+taught+an+AI+to+play+Elden+Ring" alt="Typing intro" />
+
+### I build AI that watches how people move — and makes them better at it.
+
+**Co-founder & CEO of [GolfWiz AI](https://golfwiz.ai)** · Computer vision engineer · Houston, TX
+
+<a href="https://golfwiz.ai"><img src="https://img.shields.io/badge/GolfWiz_AI-1A8AFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="GolfWiz AI"></a>
+<a href="https://www.youtube.com/@YOUR_TOAD_THAT_CODES_HANDLE"><img src="https://img.shields.io/badge/Toad_That_Codes-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Toad That Codes on YouTube"></a>
+<a href="https://www.linkedin.com/in/dhruv-datta-516274200/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/dhruvmohandatta"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+
 </div>
 
+---
 
-# Skills 👩‍🔧
-### Languages and Scripts 💻
-![C++](https://img.shields.io/badge/c/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4eaa25?style=for-the-badge&logo=gnubash&logoColor=white) ![R](https://img.shields.io/badge/R-276dc3?style=for-the-badge&logo=r&logoColor=white) ![MIPS](https://img.shields.io/badge/MIPS_Assembly-000000?style=for-the-badge) 
-### Database Technologies 🗂️
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-### Frameworks (Web/App) 🌐
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=violet) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=green) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=neon) ![Express](https://img.shields.io/badge/Express-FFF700?style=for-the-badge&logo=express&logoColor=grey)
-### ML Technologies 🧮
-![Tensorflow](https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Pytorch](https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=green) 
-### Robotics 🤖
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) ![RobotOS](https://img.shields.io/badge/RobotOS-00B0D8?style=for-the-badge&logo=RobotOS&logoColor=grey) 
-### Version Control 🚣‍♀️
-![Git/Github](https://img.shields.io/badge/Git/Github-181717?style=for-the-badge&logo=github&logoColor=white) 
-### Cybersecurity Technologies 🥷🏻
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) ![Kali Linux](https://img.shields.io/badge/Kali_linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=gold) 
-### Gamedev 🎮
-![Unity](https://img.shields.io/badge/Unity-808080?style=for-the-badge&logo=unity&logoColor=black)
-### Design Technologies 📐
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Davinci Resolve](https://img.shields.io/badge/davinciresolve-233A51?style=for-the-badge&logo=davinciresolve&logoColor=cyan)
-# My Greatest Hits 👑
-### Sign Language Interpreter:
-https://github.com/CyberDatta/sign_lang_translator_beta
-### YoloV8 Traffic Detection and Training Pipeline:
-https://github.com/CyberDatta/AITrafficSystem
-### AI plays ELDEN RING: 
-https://github.com/CyberDatta/EldenRL_mysystem
-<!---
-CyberDatta/CyberDatta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## ⛳ What I'm Building
 
+### [GolfWiz AI](https://golfwiz.ai) — the AI golf coach that doesn't stop at telling you what's wrong.
+
+Every swing app could diagnose a fault. None of them could fix one. My dad kept running into that wall, so I took a golf biomechanics course, pointed my computer vision background at the problem, and built the first demos myself.
+
+Today GolfWiz is live on **iOS and Android**: film a swing on your phone, get the faults ranked, then fix them with **real-time, follow-along AI drills that track your body and count your reps** (patent pending). Swing, grip, and putting analysis, plus a rotatable 3D swing model, all from a single phone camera.
+
+<div align="center">
+
+| 📲 Downloads | 🌍 Countries | 🏌️ Swings Analyzed | ⭐ Store Rating |
+|:---:|:---:|:---:|:---:|
+| **[X]** | **[X]** | **[X]** | **[X]** |
+
+**Film It. Find It. Fix It.**
+
+</div>
+
+**My role:** I wrote GolfWiz's first code, from pose-estimation pipeline to app. As we scaled, I moved into product, design, and running the company. I now lead a dev team and work with tour-level golf experts to turn coaching knowledge into shipped features.
+
+---
+
+## 🧭 The Path
+
+```text
+2025 → now    Co-founder & CEO, GolfWiz AI             full-time since Mar 2025 (started Oct 2024)
+2023 → 2026   Full Stack Developer, Medical Tourism Corp.  Flutter apps + Node.js infra for patient tracking & retention
+2019 → 2023   B.Tech CSE, Punjab Engineering College   Entrepreneurship & Incubation Cell · E-Summit every year
+```
+
+---
+
+## 🧪 Side Quests — Where GolfWiz Came From
+
+Before golf, I was teaching machines to see bodies and play games. Same core skill, different arena.
+
+<div align="center">
+
+<a href="https://github.com/CyberDatta/EldenRL_mysystem"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CyberDatta&repo=EldenRL_mysystem&theme=transparent&title_color=1A8AFF&text_color=8b949e&icon_color=1A8AFF&hide_border=true" alt="Elden Ring RL agent"></a>
+<a href="https://github.com/CyberDatta/BODY_MOTION_REPO_NAME"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CyberDatta&repo=BODY_MOTION_REPO_NAME&theme=transparent&title_color=1A8AFF&text_color=8b949e&icon_color=1A8AFF&hide_border=true" alt="Body-motion game controller"></a>
+<a href="https://github.com/CyberDatta/sign_lang_translator_beta"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CyberDatta&repo=sign_lang_translator_beta&theme=transparent&title_color=1A8AFF&text_color=8b949e&icon_color=1A8AFF&hide_border=true" alt="Sign language interpreter"></a>
+<a href="https://github.com/CyberDatta/AITrafficSystem"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CyberDatta&repo=AITrafficSystem&theme=transparent&title_color=1A8AFF&text_color=8b949e&icon_color=1A8AFF&hide_border=true" alt="YOLOv8 traffic system"></a>
+
+</div>
+
+- **🗡️ AI Plays Elden Ring:** a reinforcement learning agent that learns boss fights from the screen.
+- **🕹️ Kinect for Every Game:** play any video game with your body. Pose estimation turns your movement into controls.
+- **🤟 Sign Language Interpreter:** real-time sign recognition from a webcam.
+- **🚦 YOLOv8 Traffic System:** detection and a full training pipeline for traffic footage.
+
+---
+
+## 🛠️ What I Ship With
+
+<div align="center">
+
+**Vision & ML**<br>
+<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white" alt="MediaPipe">
+<img src="https://img.shields.io/badge/Pose_Estimation-1A8AFF?style=for-the-badge&logo=opencv&logoColor=white" alt="Pose Estimation">
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+
+**Product**<br>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+
+**Infra & Data**<br>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+<img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=github&logoColor=white" alt="Git">
+
+**Also In The Toolbox**<br>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+<img src="https://img.shields.io/badge/DaVinci_Resolve-233A51?style=for-the-badge&logo=davinciresolve&logoColor=white" alt="DaVinci Resolve">
+
+</div>
+
+---
+
+## 📺 Latest From Toad That Codes
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [See all videos](https://www.youtube.com/@YOUR_TOAD_THAT_CODES_HANDLE)
+
+---
+
+## 📈 By The Numbers
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=CyberDatta&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0F1115&title_color=1A8AFF&icon_color=1A8AFF&text_color=c9d1d9" alt="GitHub stats">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberDatta&layout=compact&langs_count=6&hide_border=true&bg_color=0F1115&title_color=1A8AFF&text_color=c9d1d9" alt="Top languages">
+
+<img src="https://streak-stats.demolab.com?user=CyberDatta&hide_border=true&background=0F1115&ring=1A8AFF&fire=1A8AFF&currStreakLabel=1A8AFF&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub streak">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CyberDatta/CyberDatta/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CyberDatta/CyberDatta/output/github-snake.svg">
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/CyberDatta/CyberDatta/output/github-snake.svg">
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+### Investors, founders, golf people: let's talk.
+
+**[golfwiz.ai](https://golfwiz.ai)** · **[LinkedIn](https://www.linkedin.com/in/dhruv-datta-516274200/)**
+
+</div>
