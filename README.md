@@ -5,8 +5,8 @@
 **Co-founder & CEO of [GolfWiz AI](https://golfwiz.ai)** · Computer vision engineer · Houston, TX
 
 <a href="https://golfwiz.ai"><img src="https://img.shields.io/badge/GolfWiz_AI-1A8AFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="GolfWiz AI"></a>
-<a href="https://www.youtube.com/@YOUR_TOAD_THAT_CODES_HANDLE"><img src="https://img.shields.io/badge/Toad_That_Codes-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Toad That Codes on YouTube"></a>
-<a href="https://www.linkedin.com/in/dhruv-datta-516274200/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.youtube.com/@toadthatcodes"><img src="https://img.shields.io/badge/Toad_That_Codes-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Toad That Codes on YouTube"></a>
+<a href="https://www.linkedin.com/in/dhruv-m-datta/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/dhruvmohandatta"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 
 </div>
@@ -56,14 +56,18 @@ Before golf, I was teaching machines to see bodies and play games. Same core ski
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://www.youtube.com/watch?v=3mzXOTxRPiw"><img src="https://img.youtube.com/vi/3mzXOTxRPiw/hqdefault.jpg" width="100%" alt="I Taught an AI to Play Elden Ring"></a>
+
 ### 🗡️ [AI Plays Elden Ring](https://github.com/CyberDatta/EldenRL_mysystem)
-A reinforcement learning agent that learns boss fights from nothing but the screen.
+A reinforcement learning agent that learns boss fights from nothing but the screen. [▶ Watch](https://www.youtube.com/watch?v=3mzXOTxRPiw)
 
 </td>
 <td width="50%" valign="top">
 
+<a href="https://www.youtube.com/watch?v=s1pZKJvT_6Q"><img src="https://img.youtube.com/vi/s1pZKJvT_6Q/hqdefault.jpg" width="100%" alt="I Turned My Body Into a Game Controller"></a>
+
 ### 🕹️ [Kinect for Every Game](https://github.com/CyberDatta/BODY_MOTION_REPO_NAME)
-Play any video game with your body. Pose estimation turns your movement into controls.
+Play any video game with your body. Pose estimation turns your movement into controls. [▶ Watch](https://www.youtube.com/watch?v=s1pZKJvT_6Q)
 
 </td>
 </tr>
@@ -109,9 +113,10 @@ Play any video game with your body. Pose estimation turns your movement into con
 ## 📺 Latest From Toad That Codes
 
 <!-- BLOG-POST-LIST:START -->
+<a href="https://www.youtube.com/watch?v=s1pZKJvT_6Q"><img width="24%" src="https://img.youtube.com/vi/s1pZKJvT_6Q/mqdefault.jpg" alt="I Turned My Body Into a Game Controller"/></a> <a href="https://www.youtube.com/watch?v=3mzXOTxRPiw"><img width="24%" src="https://img.youtube.com/vi/3mzXOTxRPiw/mqdefault.jpg" alt="I Taught an AI to Play Elden Ring"/></a>
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [See all videos](https://www.youtube.com/@YOUR_TOAD_THAT_CODES_HANDLE)
+➡️ [See all videos](https://www.youtube.com/@toadthatcodes)
 
 ---
 
@@ -138,6 +143,6 @@ Play any video game with your body. Pose estimation turns your movement into con
 
 ### Investors, founders, golf people: let's talk.
 
-**[golfwiz.ai](https://golfwiz.ai)** · **[LinkedIn](https://www.linkedin.com/in/dhruv-datta-516274200/)**
+**[golfwiz.ai](https://golfwiz.ai)** · **[LinkedIn](https://www.linkedin.com/in/dhruv-m-datta/)**
 
 </div>
